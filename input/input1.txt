@@ -1,0 +1,7 @@
+N=4
+55 120 45 80
+47 51 98 77
+M=3
+GMAX=10
+MalInitial=vest
+MalFinal=est
