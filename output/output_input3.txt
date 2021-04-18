@@ -1,0 +1,706 @@
+
+
+##################
+Solutii obtinute cu A*:
+Solutie: 
+([1, 1], [1, 1], 0, [1], [1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:2
+Greutati:[1, 1]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:1
+Greutati:[1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1], [1], 1, [1, 1], [1, 1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Cost: 16
+Lungimea drumului: 12
+Timp: 0.004987001419067383
+
+----------------
+
+Solutie: 
+([1, 1, 1], [1], 0, [], [1, 1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:2
+Greutati:[1, 1]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:1
+Greutati:[1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1], [1], 1, [1, 1], [1, 1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Cost: 16
+Lungimea drumului: 12
+Timp: 0.005984306335449219
+
+----------------
+
+Solutie: 
+([1, 1, 1], [1], 0, [], [1, 1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1], 1, [1, 1, 1], [1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Cost: 17
+Lungimea drumului: 12
+Timp: 0.005984306335449219
+
+----------------
+
+Solutie: 
+([1, 1], [1, 1], 0, [1], [1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1], 1, [1, 1, 1], [1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Cost: 17
+Lungimea drumului: 12
+Timp: 0.005984306335449219
+
+----------------
+
+
+##################
+Solutii obtinute cu UCS:
+Solutie: 
+
+([1, 1, 1], [1], 0, [], [1, 1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:2
+Greutati:[1, 1]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:1
+Greutati:[1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1], [1], 1, [1, 1], [1, 1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Timp: 0.007978200912475586
+
+----------------
+
+Solutie: 
+
+([1, 1], [1, 1], 0, [1], [1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:2
+Greutati:[1, 1]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:1
+Greutati:[1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1], [1], 1, [1, 1], [1, 1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Timp: 0.007978200912475586
+
+----------------
+
+Solutie: 
+
+([1, 1, 1], [1], 0, [], [1, 1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1], 1, [1, 1, 1], [1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Timp: 0.00897526741027832
+
+----------------
+
+Solutie: 
+
+([1, 1], [1, 1], 0, [1], [1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1], 1, [1, 1, 1], [1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Timp: 0.009974002838134766
+
+----------------
+
+
+##################
+Solutii obtinute cu A* optimizat:
+Solutie: 
+
+([1, 1], [1, 1], 0, [1], [1])
+
+Indexul starii (nodului): 1
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1, 1], 1, [], [1])
+
+([1, 1, 1], [], 0, [], [1, 1, 1])
+
+Indexul starii (nodului): 2
+Misionari pe mal curent:0
+Greutati:[]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:3
+Greutati:[1, 1, 1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1, 1, 1], [1], 1, [], [1, 1])
+
+([1], [1], 0, [1, 1], [1, 1])
+
+Indexul starii (nodului): 3
+Misionari pe mal curent:1
+Greutati:[1]
+Canibali pe mal curent: 1
+Greutati: [1]
+Misionari pe mal opus:2
+Greutati:[1, 1]
+Canibali pe mal opus: 2
+Greutati: [1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 2 oameni.
+([1, 1], [1, 1], 1, [1], [1])
+
+([], [1, 1], 0, [1, 1, 1], [1])
+
+Indexul starii (nodului): 4
+Misionari pe mal curent:3
+Greutati:[1, 1, 1]
+Canibali pe mal curent: 0
+Greutati: []
+Misionari pe mal opus:0
+Greutati:[]
+Canibali pe mal opus: 3
+Greutati: [1, 1, 1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([], [1, 1, 1], 1, [1, 1, 1], [])
+
+([], [1], 0, [1, 1, 1], [1, 1])
+
+Indexul starii (nodului): 5
+Misionari pe mal curent:2
+Greutati:[1, 1]
+Canibali pe mal curent: 2
+Greutati: [1, 1]
+Misionari pe mal opus:1
+Greutati:[1]
+Canibali pe mal opus: 1
+Greutati: [1]
+Barca s-a deplasat de la malul est la malul vest cu 1 oameni.
+([1], [1], 1, [1, 1], [1, 1])
+
+([], [], 0, [1, 1, 1], [1, 1, 1])
+Timp: 0.010970830917358398
+
+----------------
