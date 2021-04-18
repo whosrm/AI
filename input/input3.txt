@@ -1,0 +1,7 @@
+N=3
+1 1 1
+1 1 1
+M=2
+GMAX=6
+MalInitial=vest
+MalFinal=est

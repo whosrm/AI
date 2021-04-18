@@ -1,0 +1,7 @@
+N=2
+55 120
+47 51
+M=2
+GMAX=200
+MalInitial=vest
+MalFinal=est
