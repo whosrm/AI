@@ -1,0 +1,10 @@
+
+
+##################
+Solutii obtinute cu A*:
+
+##################
+Solutii obtinute cu UCS:
+
+##################
+Solutii obtinute cu A* optimizat:
